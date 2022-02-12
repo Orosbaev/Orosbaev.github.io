@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+}
+nav {
+}
+h1 {
+    color: rgb(110, 30, 24);
+}
+li {
+   color: honeydew;
+}
+a {
+    color: honeydew;
+}
+.me {
+    height: 700px;
+}
+.one {
+    color: rgb(130, 0, 91);
+}
+h2 {
+    color: rgb(40, 230, 230);
+}
+h3 {
+    color: rgb(102, 236, 12);
+}
+p {
+    color: honeydew;
+}
